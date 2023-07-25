@@ -1,5 +1,5 @@
 # cominfo
-Get computer some Information such as Computername, OS Build, IP Address,  FreeSpace(GB), OS Name
+Get computer some Information such as Computername, OS Build, IP Address,  "Drive C:" FreeSpace(GB), OS Name
 
 # PowerShell Function: ComInfo
 
